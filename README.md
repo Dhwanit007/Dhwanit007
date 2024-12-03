@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhwanit007
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web / Full Stack Development
 - 🌱 I’m currently learning React JS and Some framewroks
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
