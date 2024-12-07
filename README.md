@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhwanit007
+- 👋 Hi, I’m Dhwanit Parani
 - 👀 I’m interested in Web / Full Stack Development
 - 🌱 I’m currently learning React JS and Some framewroks
 - 💞️ I’m looking to collaborate on Web Development
