@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web / Full Stack Development
 - 🌱 I’m currently learning Nest JS and Some Backend framewroks
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me - you can connect with me through my personal portfolio ( https://dhwanit007.github.io/Portfolio/ )
+- 📫 How to reach me - you can connect with me through my personal portfolio ( dhwanitparani-dev.vercel.app )
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
