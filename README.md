@@ -108,8 +108,7 @@ Explore more: [github.com/Dhwanit007](https://github.com/Dhwanit007)
 
 ## 📊 GitHub Analytics
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Dhwanit007&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhwanit007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Top
 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwanit007&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
