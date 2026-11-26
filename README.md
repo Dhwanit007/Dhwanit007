@@ -36,6 +36,23 @@ user interfaces.
 - 🌐 Portfolio:
   [dhwanitparani-dev.vercel.app](https://dhwanitparani-dev.vercel.app)
 
+## 💼 Professional Engineering Experience
+
+I have contributed to real-world software products across multiple domains, working on backend development, API integrations, database management, and application architecture.
+
+**Areas of contribution:**
+- REST API development and integration.
+- Multi-tenant application development.
+- Authentication and authorization.
+- Database schema design and optimization.
+- Backend debugging and production issue resolution.
+- Full-stack application integration.
+- Feature development and maintenance.
+
+My professional experience has helped me understand real-world development workflows, production requirements, and maintainable software engineering practices.
+
+*Company-owned source code and proprietary implementations are not published in my personal repositories.*
+
 ## 🧰 Tech Stack
 
 **Languages**
